@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main {
+    height: 100vh;
+    background-image: url("https://img.freepik.com/free-vector/abstract-splashed-watercolor-textured-background_53876-8753.jpg?w=996&t=st=1661172109~exp=1661172709~hmac=32b651d0bd03ccaea13aaf345c398cc8a408981f32d9af2c8b8ba21f2a2c1064");
+    background-size: cover;
+}
+
+.head {
+    padding: 20px;
+    color: White;
+    font-size: 50px;
+    text-align: center;
+    font-family: bree Serif;
+}
+
+.img1 {
+    padding: 10px;
+    height: 450px;
+    width: 610px;
+    border-radius: 15px;
+}
+
+.button {
+    margin: 20px;
+    background-color: #F6B4F9;
+    border-radius: 5px;
+    border-color: #AC2BB2;
+    height: 40px;
+    width: 150px;
+}
+
+#sectionkpoppage {
+    background-color: #b57edc;
+    height: 100vh;
+    background-size: cover;
+
+}
+
+#nav_bar_list {
+    color: white;
+    font-size: 15px;
+}
+
+.names {
+    color: white;
+    font-size: 20px;
+    font-family: bree Serif;
+}
+
+.error {
+    color: red;
+    font-size: 15px;
+}
+
+.para {
+    color: white;
+    font-size: 30px;
+    font-family: bree Serif;
+    text-align: center;
+}
+
+.input {
+    margin: 10px;
+    background-color: #FFF5EE;
+    border-radius: 5px;
+    border-color: #AC2BB2;
+    height: 40px;
+    width: 300px;
+}
+
+.inputt {
+    margin: 15px;
+    background-color: #FFF5EE;
+    border-radius: 5px;
+    border-color: #AC2BB2;
+    height: 40px;
+    width: 300px;
+}
+
+.imgg {
+    margin: 20px;
+    height: 250px;
+    width: 250px;
+    border-radius: 8px;
+}
+
+.navbar {
+    background-color: #720e9e;
+}
+
+.navbar-image {
+    height: 60px;
+    width: 70px;
+}
